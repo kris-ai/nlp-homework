@@ -32,10 +32,16 @@ Use descriptive statistics to answer the following questions:
 
 > Which coin had the highest mean positive score?
 >
+>Bitcoin had the highest mean positive score.
+>
 > Which coin had the highest negative score?
 >
+>Bitcoin had the highest negative score.
+>
 > Which coin had the highest positive score?
-
+>
+>Ethereum had the highest positive score.
+>
 #### Natural Language Processing
 
 In this section, you will use NLTK and Python to tokenize the text for each coin. Be sure to:
